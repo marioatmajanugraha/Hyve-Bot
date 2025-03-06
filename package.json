@@ -1,0 +1,16 @@
+{
+  "name": "hyve-bot",
+  "version": "1.0.0",
+  "main": "autoSpin.js",
+  "scripts": {
+    "obfuscate": "javascript-obfuscator autoSpin.js --output autoSpin.obf.js",
+    "start": "node autoSpin.obf.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "cfonts": "^3.1.0",
+    "https-proxy-agent": "^5.0.0",
+    "socks-proxy-agent": "^7.0.0"
+  }
+}
