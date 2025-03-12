@@ -43,5 +43,5 @@ Jika ingin berkontribusi, silakan fork repo ini dan ajukan pull request!
 ## 📞 Kontak
 Jika ada pertanyaan, hubungi: [@balveerxyz](https://t.me/balveerxyz)
 
-Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked)
+Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked) 
 
