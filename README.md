@@ -41,5 +41,7 @@ Script ini digunakan untuk melakukan auto spin pada game Hyve Wars menggunakan A
 Jika ingin berkontribusi, silakan fork repo ini dan ajukan pull request!
 
 ## 📞 Kontak
-Jika ada pertanyaan, hubungi: [@balveerxyz](https://github.com/balveerxyz)
+Jika ada pertanyaan, hubungi: [@balveerxyz](https://t.me/balveerxyz)
+
+Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked)
 
