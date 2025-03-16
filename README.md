@@ -9,6 +9,9 @@ Script ini digunakan untuk melakukan auto spin pada game Hyve Wars menggunakan A
 - ⚡ Menampilkan status energi atau statistik setelah spin
 - 🎮 Mode tambahan: Auto Play (simulasi permainan) dan Auto Referral (buat akun baru)
 
+## New Update : 
+- Mode Auto Play ( Score random 80 - 250, menyesuaikan seperti bermain langsung ) 
+
 ## 🚀 Cara Penggunaan
 1. **Clone repository ini**
    ```sh
