@@ -4,9 +4,10 @@ Script ini digunakan untuk melakukan auto spin pada game Hyve Wars menggunakan A
 
 ## 📌 Fitur
 - ✅ Auto spin menggunakan token yang tersedia di `tokens.txt`
-- 🔌 Dukungan proxy (`proxy.txt`)
-- 🎁 Menampilkan hasil reward setelah spin
-- ⚡ Menampilkan status energi setelah spin
+- 🔌 Dukungan proxy (`proxy.txt`) untuk koneksi aman
+- 🎁 Menampilkan hasil reward (misalnya, gold) setelah spin
+- ⚡ Menampilkan status energi atau statistik setelah spin
+- 🎮 Mode tambahan: Auto Play (simulasi permainan) dan Auto Referral (buat akun baru)
 
 ## 🚀 Cara Penggunaan
 1. **Clone repository ini**
@@ -40,5 +41,7 @@ Script ini digunakan untuk melakukan auto spin pada game Hyve Wars menggunakan A
 Jika ingin berkontribusi, silakan fork repo ini dan ajukan pull request!
 
 ## 📞 Kontak
-Jika ada pertanyaan, hubungi: [@balveerxyz](https://github.com/balveerxyz)
+Jika ada pertanyaan, hubungi: [@balveerxyz](https://t.me/balveerxyz)
+
+Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked) 
 
